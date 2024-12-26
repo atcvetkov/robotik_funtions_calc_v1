@@ -1,0 +1,6 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><comment id="ss!aUH7=wc:jdV|RV`u$" x="371" y="52" w="246" h="206">math_operation
+
+plus  -&gt; +
+minus -&gt; -
+mult  -&gt; *
+div   -&gt; /</comment><block type="function_definition" id=":PStah*bx#*+Sx8%V`5o" x="815" y="377"><mutation name="calc" functionid="7|Hi9MTP1QZerKZbp]q1"><arg name="math_operation" id="|}nL:Rg)Lur|+aO,BD0:" type="string"></arg><arg name="var_1" id="p]}dMfJplp]0[|?zCQQ1" type="number"></arg><arg name="var_2" id="tAa/,?:oW=ZRijbRJIAS" type="number"></arg></mutation><field name="function_name">calc</field><value name="|}nL:Rg)Lur|+aO,BD0:"><block type="argument_reporter_string" id="TcEFp=}T,$.a?m*A5^$Z"><mutation duplicateondrag="true"></mutation><field name="VALUE">math_operation</field></block></value><value name="p]}dMfJplp]0[|?zCQQ1"><block type="argument_reporter_number" id="lJMLX,I8}XNPUJE?LAab"><mutation duplicateondrag="true"></mutation><field name="VALUE">var_1</field></block></value><value name="tAa/,?:oW=ZRijbRJIAS"><block type="argument_reporter_number" id="J(y$|_euUQKim:yMqqK;"><mutation duplicateondrag="true"></mutation><field name="VALUE">var_2</field></block></value></block><block type="device_forever" id="ld+y2x7CI}CV}XNC*$(e" x="576" y="421"></block><block type="pxt-on-start" id="iQy}R]02:P|e;p7@HE,M" x="617" y="627"></block></xml>
